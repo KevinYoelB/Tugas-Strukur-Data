@@ -60,3 +60,5 @@ int countDosenDariProdi(listDosen LD, listProdi LP , string x);
 
 
 #endif // INCLUDE_TUBES_H
+
+// ini komen buat tugas WGTIK wkwkwk Kevin Yoel Bernhard 1303210087 IT4504
